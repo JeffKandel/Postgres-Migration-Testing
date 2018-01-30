@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JeffKandel/Postgres-Migration-Testing/issues"
   },
-  "homepage": "https://github.com/JeffKandel/Postgres-Migration-Testing#readme"
+  "homepage": "https://github.com/JeffKandel/Postgres-Migration-Testing#readme",
+  "dependencies": {
+    "sequelize": "^4.32.2"
+  }
 }
