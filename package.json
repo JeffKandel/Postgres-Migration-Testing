@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JeffKandel/Postgres-Migration-Testing#readme",
   "dependencies": {
+    "pg": "^7.4.1",
     "sequelize": "^4.32.2"
   }
 }
